@@ -19,6 +19,10 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and start building your app
         </p>
+        <h2>Instructions:</h2>
+        <p>
+          Create a TODO app with the ability to mark as done and delete a task
+        </p>
         <p>
           Create any component you need and use good practices and clean code.
         </p>
